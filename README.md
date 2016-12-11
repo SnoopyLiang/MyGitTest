@@ -1,4 +1,1 @@
-# MyGitTest
-# Liquanliang
-# BUg
-
+# MyGit
